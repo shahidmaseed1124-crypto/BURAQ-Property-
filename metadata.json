@@ -1,0 +1,6 @@
+{
+  "name": "Apna Ghar",
+  "description": "Find your dream home, luxury apartments, and villas. Search verified listings, calculate EMI, schedule visits, and save favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
